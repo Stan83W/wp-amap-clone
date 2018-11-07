@@ -1,0 +1,63 @@
+/*
+ Theme Name:   Personal Storefront
+ Description:  My personal Storefront Child Theme
+ Author:       Stanislas Wiart
+ Author URI:   http://www.stanislaswiart.com
+ Template:     storefront
+ Version:      1.0.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900');
+body {
+		font-family: 'Roboto', sans-serif !important;
+}
+
+.site-title {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	font-size: 1em;
+}
+.site-title a {
+	color: black !important;
+}
+.entry-header h1 {
+	display: none;
+}
+.banner-img {
+	margin: 0 !important;
+	
+}
+.page-template-template-homepage .entry-content, .page-template-template-homepage .entry-header {
+	max-width: 100%;
+	margin: 0 !important;
+}
+#post-10 .col-full {
+		padding: 0 !important;
+}
+.section-title {
+		font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	font-size: 2em;
+		color: black;
+}
+.primary-navigation a {
+			font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+		color: black !important;
+}
+.site-header {
+	border-bottom: none;
+}
+#main {
+	padding-top: 0 !important;
+}
+.footer-widgets {
+				font-family: 'Roboto', sans-serif;
+		font-weight: 900;
+	color: black;
+}
+.widget-title {
+					font-family: 'Roboto', sans-serif;
+		font-weight: 900 !important;
+	color: black;
+}
