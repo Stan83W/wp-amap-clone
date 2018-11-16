@@ -1,11 +1,12 @@
 /*
- Theme Name:   Personal Storefront
- Description:  My personal Storefront Child Theme
+ Theme Name:   Storefront Child Theme
+ Description:  Child theme for Storefront
  Author:       Stanislas Wiart
  Author URI:   http://www.stanislaswiart.com
  Template:     storefront
  Version:      1.0.0
 */
+
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,900');
 body {
